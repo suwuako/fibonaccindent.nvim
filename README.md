@@ -1,5 +1,6 @@
 # fibonaccindent.nvim
 Indents your code with increased spacing (based off the fibonacci sequence) per nested indent
+
 ![image](https://github.com/user-attachments/assets/935248e2-1a6b-41c9-b611-e9c05e843cb1)
 
 
